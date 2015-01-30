@@ -1,0 +1,13 @@
+# opensource-web-projects-with-xss
+For web xss pentesters
+
+Many website developers use code from popular opensource projects(directly or indirectly).
+During my xss bug hunting, I frequently see some opensoure projects, whose old versions or current versions contain xss bugs, being used.
+Here is a list of those projects:
+1. zeroclipboard
+   https://github.com/zeroclipboard/zeroclipboard
+   zeroclipboard.swf is wildely used.
+2. swfobject
+   https://github.com/swfobject/swfobject
+3. flowplayer
+   https://github.com/flowplayer/flowplayer
