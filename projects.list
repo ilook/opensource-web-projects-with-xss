@@ -11,3 +11,6 @@ Here is a list of those projects:
    https://github.com/swfobject/swfobject
 3. flowplayer
    https://github.com/flowplayer/flowplayer
+4. player_flv_maxi.swf
+   multiple vulnerabilities in this flash: 
+   http://packetstormsecurity.com/files/104331/FLV-Player-Content-Spoofing-Cross-Site-Scripting.html
