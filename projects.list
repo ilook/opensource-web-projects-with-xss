@@ -14,3 +14,5 @@ Here is a list of those projects:
 4. player_flv_maxi.swf
    multiple vulnerabilities in this flash: 
    http://packetstormsecurity.com/files/104331/FLV-Player-Content-Spoofing-Cross-Site-Scripting.html
+5. evercookie.swf
+   https://github.com/samyk/evercookie/
